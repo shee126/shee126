@@ -1,0 +1,67 @@
+My Learning Goals
+
+This Semester
+
+I want to improve my GitHub skills, learn Markdown formatting, and practice using "git commit".
+
+Links
+
+- My GitHub Profile: https://github.com/shee126
+- Useful Website: https://docs.github.com
+
+Things I Want to Learn
+
+- Git and GitHub
+- Markdown
+- Web Development
+
+Steps to Make a Git Commit
+
+1. Stage your changes with "git add ."
+2. Create a commit with "git commit -m "message""
+3. Push your changes with "git push"
+
+Tools Table
+
+Tool| Purpose| Link
+GitHub| Version control and collaboration| https://github.com
+Visual Studio Code| Code editing| https://code.visualstudio.com
+
+Learning Goals Task List
+
+- [x] Create a GitHub account
+- [x] Create a repository
+- [ ] Learn advanced Markdown
+- [ ] Build a personal website
+
+Code Block
+
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("World")
+
+Blockquote
+
+«Consistency is more important than perfection.»
+
+About Me
+
+About Me
+
+Hello! My name is shee126. I am learning GitHub, Markdown, and web development this semester.
+
+My goals are:
+
+- Learn Git and GitHub
+- Build websites
+- Improve coding skills
+
+Useful resource: https://docs.github.com
+
+Current task progress:
+
+- [x] Created a GitHub account
+- [ ] Complete more Markdown exercises
+
+Favorite command: "git status"
